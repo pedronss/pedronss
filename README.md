@@ -1,4 +1,4 @@
-### Eai, meu nome é Pedro!
+### Eaee, meu nome é Pedro, e eu estou cursando Desenvolvimento de Sistemas!
 
 <div>
   <a href="https://github.com/pedronss">
