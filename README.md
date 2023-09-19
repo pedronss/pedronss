@@ -1,5 +1,10 @@
 
-### Eaee, meu nome é Pedro, e eu estou cursando Desenvolvimento de Sistemas!
+
+# Meu nome é Pedro. <img align="center" alt="Coffe" height="43" width="43" src="https://media.tenor.com/z48FH6xh9_UAAAAi/thisisfinland-finland.gif">
+
+- Atualmente estudando no SENAI 👨‍🎓
+- Aprecio um bom café☕
+- Estudando Python🐍
 
 <div>
   <a href="https://github.com/pedronss">
@@ -9,13 +14,12 @@
 <div>
 <a href="https://github.com/pedronss">
 <img height="100%" width="369x" border-radius= "90px" src="https://github-readme-stats.vercel.app/api?username=pedronss&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
 </div> 
 
+## Linguagens:
+
 <div style="display: inline_block"><br>
-  <img align="center" alt="Pedro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Pedro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <a href="//pt.wikipedia.org/wiki/Python"><img align="center" alt="Pedro-Python" height="43" width="43" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
 
