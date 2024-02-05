@@ -19,9 +19,10 @@
 ## Linguagens:
 
 <div style="display: inline_block"><br>
-  <a href="//pt.wikipedia.org/wiki/Python"><img align="center" alt="Pedro-Python" height="43" width="43" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
-  <a href="https://pt.wikipedia.org/wiki/HTML"><img align="center" alt="Pedro-Python" height="43" width="43" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <a href="https://pt.wikipedia.org/wiki/Cascading_Style_Sheets"><img align="center" alt="Pedro-Python" height="43" width="43" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <a href="//pt.wikipedia.org/wiki/Python"><img align="center" alt="Pedro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
+  <a href="https://pt.wikipedia.org/wiki/HTML"><img align="center" alt="Pedro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <a href="https://pt.wikipedia.org/wiki/Cascading_Style_Sheets"><img align="center" alt="Pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <a href="https://pt.wikipedia.org/wiki/JavaScript"><img align="center" alt="Pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     
 </div>
 
