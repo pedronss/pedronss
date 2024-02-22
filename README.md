@@ -28,14 +28,6 @@
 </div>
 
 
-## Ferramentas:
-
-<div style="display: inline_block"><br>
-  
-  <a href="https://pt.wikipedia.org/wiki/Visual_Studio_Code"><img align="center" alt="Pedro-Vs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"> 
-  <a href="https://pt.wikipedia.org/wiki/Adobe_After_Effects"><img align="center" alt="Pedro-AE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg"> 
-</div>
-
 ##
 <div> 
   <a href="https://instagram.com/pedro.n.ss" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
