@@ -23,6 +23,7 @@
   <a href="https://pt.wikipedia.org/wiki/HTML"><img align="center" alt="Pedro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <a href="https://pt.wikipedia.org/wiki/Cascading_Style_Sheets"><img align="center" alt="Pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <a href="https://pt.wikipedia.org/wiki/JavaScript"><img align="center" alt="Pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <a href="https://pt.wikipedia.org/wiki/PHP"><img align="center" alt="Pedro-Js" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
     
 </div>
 
