@@ -34,7 +34,6 @@
   
   <a href="https://pt.wikipedia.org/wiki/Visual_Studio_Code"><img align="center" alt="Pedro-Vs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"> 
   <a href="https://pt.wikipedia.org/wiki/Adobe_After_Effects"><img align="center" alt="Pedro-AE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg"> 
-  <a href="https://pt.wikipedia.org/wiki/Unreal_Engine"><img align="center" alt="Pedro-Unreal" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg">
 </div>
 
 ##
