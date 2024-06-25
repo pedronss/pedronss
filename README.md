@@ -4,7 +4,7 @@
 
 - Atualmente estudando no SENAI 👨‍🎓
 - Aprecio um bom café☕
-- Estudando PHP...
+- Estudando React...
 
 <div>
   <a href="https://github.com/pedronss">
